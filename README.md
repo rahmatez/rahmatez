@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Framework Laravel**
 
-- 📫 How to reach me **rahmatashari20@gmail.com**
+- 📫 How to reach me **rahmatezdev@gmail.com**
 
 <a href="https://github.com/rahmatez">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmatez&count_private=true&show_icons=true&theme=chartreuse-dark" />
