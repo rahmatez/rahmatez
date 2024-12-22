@@ -14,5 +14,5 @@
 </a>
 
 ## MY Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,vue,py,git,github,gitlab,windows,linux,kali,ubuntu,nginx,vscode,phpstorm,figma,pr,ps,discord,twitter,instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,vue,py,git,linux,kali,ubuntu,nginx,vscode,)](https://skillicons.dev)
 
