@@ -15,4 +15,3 @@
 
 ## MY Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,vue,py,git,linux,kali,ubuntu,nginx,vscode,)](https://skillicons.dev)
-
