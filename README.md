@@ -4,7 +4,7 @@
 
 - I’m currently learning  
 🌐 Web Development (Laravel & Codeigniter)  
-🧑‍💻 Game Development
+💻 PHP Programming
 
 - 📫 How to reach me **rahmatezdev@gmail.com**
 
