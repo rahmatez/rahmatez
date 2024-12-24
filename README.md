@@ -3,7 +3,7 @@
 <h3 align="center">A computer science student. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</h3>
 
 ## I’m currently learning
-🌐 Web Development (Laravel & Codeigniter)
+🌐 Web Development (Laravel & Codeigniter)  
 🧑‍💻 Game Development
 
 - 📫 How to reach me **rahmatezdev@gmail.com**
