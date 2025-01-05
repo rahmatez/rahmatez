@@ -4,8 +4,6 @@
   <meta name="keywords" content="rahmatez, rahmat ashari, rahmatashari, github">
   <meta name="author" content="Rahmat Ashari">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="google-site-verification" content="cNH386E6E_Xj3PtNIDk463c8JY-K3iWnRNoJv0OrAHs" />
-  
 </head>
 
 <h1 align="center">Hi 👋, I'm rahmatez</h1>
