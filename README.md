@@ -21,6 +21,3 @@
 <a href="https://github.com/rahmatez">
   <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api/top-langs/?username=rahmatez&layout=compact&theme=shades-of-purple&langs_count=8&include_all_commits=true" />
 </a>
-
-## MY Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,vue,py,git,linux,kali,ubuntu,nginx,vscode,)](https://skillicons.dev)
