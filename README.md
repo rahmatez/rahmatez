@@ -7,7 +7,7 @@
 </head>
 
 <h1 align="center">Hi 👋, I'm rahmatez</h1>
-<h3 align="center">I am a computer science student with a deep passion for software development, where I transform creative ideas into reality through elegant and intuitive interfaces. With each project, I strive to blend functionality with aesthetics, crafting user experiences that are not only efficient but also a joy to interact with. Driven by curiosity and innovation, I continuously explore new technologies to push the boundaries of what's possible in the digital world.</h3>
+<h3 align="center">A computer science student. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces, continuously explore new technologies to push the boundaries of what's possible in the digital world.</h3>
 
 - I’m currently learning  
 🌐 Web Development (Laravel & Codeigniter)  
