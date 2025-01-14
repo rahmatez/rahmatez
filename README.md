@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm rahmatez</h1>
 <h3 align="center">A computer science student. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</h3>
 
-<h5 align="">I’m currently learning</h5>
+- I’m currently learning
 🌐 Web Development (Laravel & Codeigniter)  
 💻 PHP Programming
 
