@@ -12,8 +12,8 @@
 - 📫 How to reach me **rahmatezdev@gmail.com**
 
 <a href="https://github.com/rahmatez">
-  <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api?username=rahmatez&count_private=true&show_icons=true&theme=shades-of-purple" />
+  <img width=45% align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api?username=rahmatez&count_private=true&show_icons=true&theme=shades-of-purple" />
 </a>
 <a href="https://github.com/rahmatez">
-  <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api/top-langs/?username=rahmatez&layout=compact&theme=shades-of-purple&langs_count=8&include_all_commits=true" />
+  <img width=45% align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api/top-langs/?username=rahmatez&layout=compact&theme=shades-of-purple&langs_count=8&include_all_commits=true" />
 </a>
