@@ -21,7 +21,7 @@ I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My
 </a>
 </div>
 
-## ⚡ Technologies
+## Technologies ⚡
 
 [![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](https://developer.mozilla.org/docs/Web/CSS)
