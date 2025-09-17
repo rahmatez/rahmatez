@@ -8,16 +8,15 @@
 
 ## Hi Everyone <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My enthusiasm lies in dreaming up innovative solutions, designing intuitive applications, and bringing ideas to life through code. I thrive on challenges and constantly strive to create software that makes a real-world impact while pushing the boundaries of technology. Feel free to connect with me here:
+I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My enthusiasm lies in dreaming up innovative solutions, designing intuitive applications, and bringing ideas to life through code. I thrive on challenges and constantly strive to create software that makes a real-world impact while pushing the boundaries of technology. 
 
-<!-- Social Links -->
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rahmatez)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rahmat-ashari/)
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@rahmatezdev)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/rahmatez/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rahmatez_)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.x.com/rahmatez_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rahmatezdev@gmail.com)
+- 🤓 I'm **Muhammad Razin Syakib**
+
+- 🌱 I’m currently learning **Back-End Development and Cloud Computing**
+
+- 👨‍💻 All of my projects are available at [https://razinsyakib.my.id/](https://razinsyakib.my.id/) 
+
+- 📫 How to reach me **muhammadrazin14@gmail.com**
 
 
 ## ⚡ Technologies
@@ -59,6 +58,8 @@ I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My
 [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](https://www.perplexity.ai/)
 [![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)](https://v0.dev/)
 
+### My Skills 🔥
+
 <div align="center">
 <a href="https://github.com/rahmatez">
   <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api?username=rahmatez&count_private=true&show_icons=true&theme=shades-of-purple&include_all_commits=true" />
@@ -74,3 +75,14 @@ I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=rahmatez" />
 </a>
 </div>
+
+### Connect with Me! 🫱🏻‍🫲🏼
+
+<!-- Social Links -->
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rahmatez)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rahmat-ashari/)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@rahmatezdev)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/rahmatez/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rahmatez_)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.x.com/rahmatez_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rahmatezdev@gmail.com)
