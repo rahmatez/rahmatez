@@ -18,6 +18,15 @@ I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My
 
 - 📫 How to reach me **rahmatezdev@gmail.com**
 
+<div align="center">
+<a href="https://github.com/rahmatez">
+  <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api?username=rahmatez&count_private=true&show_icons=true&theme=shades-of-purple&include_all_commits=true" />
+</a>
+<a href="https://github.com/rahmatez">
+  <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api/top-langs/?username=rahmatez&count_private=true&layout=compact&theme=shades-of-purple&langs_count=8&include_all_commits=true" />
+</a>
+</div>
+
 ## ⚡ Technologies
 
 [![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
@@ -57,16 +66,6 @@ I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My
 [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](https://www.perplexity.ai/)
 [![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)](https://v0.dev/)
 
-## My Stats 🔥
-
-<div align="center">
-<a href="https://github.com/rahmatez">
-  <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api?username=rahmatez&count_private=true&show_icons=true&theme=shades-of-purple&include_all_commits=true" />
-</a>
-<a href="https://github.com/rahmatez">
-  <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api/top-langs/?username=rahmatez&count_private=true&layout=compact&theme=shades-of-purple&langs_count=8&include_all_commits=true" />
-</a>
-</div>
 
 ## Connect with Me! 🫱🏻‍🫲🏼
 
@@ -79,7 +78,7 @@ I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.x.com/rahmatez_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rahmatezdev@gmail.com)
 
-##<br>
+<br>
 <div align="center">
 <a href="https://github.com/rahmatez">
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=rahmatez" />
