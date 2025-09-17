@@ -10,14 +10,24 @@
 
 I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My enthusiasm lies in dreaming up innovative solutions, designing intuitive applications, and bringing ideas to life through code. I thrive on challenges and constantly strive to create software that makes a real-world impact while pushing the boundaries of technology. 
 
-- 🤓 I'm **Muhammad Razin Syakib**
+- 🤓 I'm **Rahmat Ashari**
 
-- 🌱 I’m currently learning **Back-End Development and Cloud Computing**
+- 🌱 I’m currently learning **Back-End Development and Front-end Development**
 
-- 👨‍💻 All of my projects are available at [https://razinsyakib.my.id/](https://razinsyakib.my.id/) 
+- 👨‍💻 All of my projects are available at [https://rahmatez.me/](https://rahmatez.me/) 
 
-- 📫 How to reach me **muhammadrazin14@gmail.com**
+- 📫 How to reach me **rahmatezdev@gmail.com**
 
+### My Stats 🔥
+
+<div align="center">
+<a href="https://github.com/rahmatez">
+  <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api?username=rahmatez&count_private=true&show_icons=true&theme=shades-of-purple&include_all_commits=true" />
+</a>
+<a href="https://github.com/rahmatez">
+  <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api/top-langs/?username=rahmatez&count_private=true&layout=compact&theme=shades-of-purple&langs_count=8&include_all_commits=true" />
+</a>
+</div>
 
 ## ⚡ Technologies
 
@@ -58,23 +68,6 @@ I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My
 [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](https://www.perplexity.ai/)
 [![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)](https://v0.dev/)
 
-### My Skills 🔥
-
-<div align="center">
-<a href="https://github.com/rahmatez">
-  <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api?username=rahmatez&count_private=true&show_icons=true&theme=shades-of-purple&include_all_commits=true" />
-</a>
-<a href="https://github.com/rahmatez">
-  <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api/top-langs/?username=rahmatez&count_private=true&layout=compact&theme=shades-of-purple&langs_count=8&include_all_commits=true" />
-</a>
-</div>
-
-<br>
-<div align="center">
-<a href="https://github.com/rahmatez">
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=rahmatez" />
-</a>
-</div>
 
 ### Connect with Me! 🫱🏻‍🫲🏼
 
@@ -86,3 +79,10 @@ I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rahmatez_)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.x.com/rahmatez_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rahmatezdev@gmail.com)
+
+<br>
+<div align="center">
+<a href="https://github.com/rahmatez">
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=rahmatez" />
+</a>
+</div>
