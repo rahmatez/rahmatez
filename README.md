@@ -16,6 +16,6 @@
   <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api?username=rahmatez&count_private=true&show_icons=true&theme=shades-of-purple&include_all_commits=true" />
 </a>
 <a href="https://github.com/rahmatez">
-  <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api/top-langs/?username=rahmatez&layout=compact&theme=shades-of-purple&langs_count=8&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api/top-langs/?username=rahmatez&count_private=true&layout=compact&theme=shades-of-purple&langs_count=8&include_all_commits=true" />
 </a>
 </div>
