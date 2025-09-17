@@ -10,13 +10,7 @@
 
 I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My enthusiasm lies in dreaming up innovative solutions, designing intuitive applications, and bringing ideas to life through code. I thrive on challenges and constantly strive to create software that makes a real-world impact while pushing the boundaries of technology. 
 
-- 🤓 I'm **Rahmat Ashari**
-
-- 🌱 I’m currently learning **Back-End Development and Front-end Development**
-
-- 👨‍💻 All of my projects are available at [https://rahmatez.me/](https://rahmatez.me/) 
-
-- 📫 How to reach me **rahmatezdev@gmail.com**
+##
 
 <div align="center">
 <a href="https://github.com/rahmatez">
