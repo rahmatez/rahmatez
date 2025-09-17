@@ -67,7 +67,8 @@ I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My
 </a>
 </div>
 
-<br>
+<div align="center">
 <a href="https://github.com/rahmatez">
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=rahmatez" />
 </a>
+</div>
