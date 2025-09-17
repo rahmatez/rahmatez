@@ -77,10 +77,3 @@ I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rahmatez_)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.x.com/rahmatez_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rahmatezdev@gmail.com)
-
-<br>
-<div align="center">
-<a href="https://github.com/rahmatez">
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=rahmatez" />
-</a>
-</div>
