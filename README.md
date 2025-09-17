@@ -8,7 +8,7 @@
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+Hi Everyone, I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My enthusiasm lies in dreaming up innovative solutions, designing intuitive applications, and bringing ideas to life through code. I thrive on challenges and constantly strive to create software that makes a real-world impact while pushing the boundaries of technology. Feel free to connect with me here:
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
