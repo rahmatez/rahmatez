@@ -20,6 +20,8 @@ I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)](#)
+
 
 
 <div align="center">
