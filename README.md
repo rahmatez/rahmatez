@@ -19,11 +19,6 @@ I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.x.com/rahmatez_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rahmatezdev@gmail.com)
 
-<div align="center">
-<a href="https://github.com/rahmatez">
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=rahmatez" />
-</a>
-</div>
 
 ## ⚡ Technologies
 
@@ -63,6 +58,12 @@ I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](https://deepmind.google/technologies/gemini/)
 [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](https://www.perplexity.ai/)
 [![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)](https://v0.dev/)
+
+<div align="center">
+<a href="https://github.com/rahmatez">
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=rahmatez" />
+</a>
+</div>
 
 <div align="center">
 <a href="https://github.com/rahmatez">
