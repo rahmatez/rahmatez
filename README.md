@@ -6,9 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hi Everyone <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Hi Everyone, I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My enthusiasm lies in dreaming up innovative solutions, designing intuitive applications, and bringing ideas to life through code. I thrive on challenges and constantly strive to create software that makes a real-world impact while pushing the boundaries of technology. Feel free to connect with me here:
+I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My enthusiasm lies in dreaming up innovative solutions, designing intuitive applications, and bringing ideas to life through code. I thrive on challenges and constantly strive to create software that makes a real-world impact while pushing the boundaries of technology. Feel free to connect with me here:
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rahmatez)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rahmat-ashari/)
