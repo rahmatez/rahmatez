@@ -68,4 +68,4 @@ I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My
 [![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)](https://v0.dev/)
 
 
-<br> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rahmatez)
+<br> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rahmatez&align=center)
