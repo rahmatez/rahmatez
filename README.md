@@ -18,6 +18,10 @@ I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from
 
 ## ⚡ Technologies
 
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+
+
 <div align="center">
 <a href="https://github.com/rahmatez">
   <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api?username=rahmatez&count_private=true&show_icons=true&theme=shades-of-purple&include_all_commits=true" />
