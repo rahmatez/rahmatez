@@ -18,7 +18,6 @@
 <a href="https://github.com/rahmatez">
   <img align="center" src="https://github-readme-stats-one-theta-65.vercel.app/api/top-langs/?username=rahmatez&count_private=true&layout=compact&theme=shades-of-purple&langs_count=8&include_all_commits=true" />
 </a>
-  <a href="https://github.com/rahmatez">
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rahmatez)
-</a>
 </div>
+
+<br> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rahmatez)
