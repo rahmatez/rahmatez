@@ -6,7 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-## Hi Everyone <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hi Everyone <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> [Rahmat Ashari!](https://github.com/rahmatez/)
+
+### Glad to see you here! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmatez&label=Profile%20views&color=0e75b6&style=flat" alt="rahmatez" /> </p>
 
 I am Rahmat Ashari from Tegal, Indonesia. A passion for software development. My enthusiasm lies in dreaming up innovative solutions, designing intuitive applications, and bringing ideas to life through code. I thrive on challenges and constantly strive to create software that makes a real-world impact while pushing the boundaries of technology. 
 
