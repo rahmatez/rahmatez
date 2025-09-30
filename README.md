@@ -73,4 +73,4 @@ A passion for software development. My enthusiasm lies in dreaming up innovative
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.x.com/rahmatez_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rahmatezdev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rahmatez)
-[![Second GitHub](https://img.shields.io/badge/SecondGitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rahmatashari)
+[![Second GitHub](https://img.shields.io/badge/Second_GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rahmatashari)
